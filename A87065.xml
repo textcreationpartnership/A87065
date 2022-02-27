@@ -1,0 +1,834 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hang-mans lamenration [sic] for the losse of Sir Arthur Haslerigge, dying in the Tower. Being a dialogue between Esquire Dun, and Sir Arthur Haslerig with their last conference in the the Tower of London a little before sir Arthurs death.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87065</idno>
+            <idno type="STC">Wing H650</idno>
+            <idno type="STC">Thomason E1869_3</idno>
+            <idno type="STC">ESTC R209729</idno>
+            <idno type="EEBO-CITATION">99868596</idno>
+            <idno type="PROQUEST">99868596</idno>
+            <idno type="VID">170495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170495)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1869[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hang-mans lamenration [sic] for the losse of Sir Arthur Haslerigge, dying in the Tower. Being a dialogue between Esquire Dun, and Sir Arthur Haslerig with their last conference in the the Tower of London a little before sir Arthurs death.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho Vere and VV Gil[b]ertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "Jan:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dun, Edward, d. 1663 --  Early works to 1800.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170495:1" rendition="simple:additions"/>
+            <p>The Hang-mans Lamentation For the loſſe of Sir <hi>Arthur Haſlerigge,</hi> dying in the TOWER.</p>
+            <p>Being a Dialogue between Eſquire <hi>Dun,</hi> and Sir <hi>Arthur Haſlerig</hi>
+            </p>
+            <p>With their laſt Conference in the <hi>Tower</hi> of <hi>London</hi> a little before ſit <hi>Arthurs</hi> DEATH.</p>
+            <p>rinted for <hi>Tho V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</hi> and <hi>VV. G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſon.</hi> 1660</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170495:2"/>
+            <pb n="3" facs="tcp:170495:2"/>
+            <head>A Diſcouſe between Eſquire DVN AND Sir ARTHUR HASLERIG.</head>
+            <stage>Enter Eſquire <hi>D<g ref="char:V">Ʋ</g>N.</hi>
+            </stage>
+            <sp>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> The Lamentation of a bad Maket Sir <hi>Ar<g ref="char:EOLhyphen"/>thur,</hi> I am <hi>Dun</hi> and un<g ref="char:EOLhyphen"/>done?</p>
+            </sp>
+            <sp>
+               <speaker>Hazelrig.</speaker>
+               <p>Why noble Eſquire thou art a man of parts, and of brave dexterity.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Yes I warrant you, and you had béen a man of parts too, had I but had my own will according to expecta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</p>
+            </sp>
+            <sp>
+               <speaker>Hazel,</speaker>
+               <p>Nay doubtleſs thou art a man of the times and counts all fiſh that comes to net with thee.</p>
+            </sp>
+            <pb n="4" facs="tcp:170495:3"/>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>I, I ſir <hi>Arthur</hi> if I had caught you in my net you had be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a fine fiſh, had you not do you think.</p>
+            </sp>
+            <sp>
+               <speaker>Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el.</speaker>
+               <p>Yes for you to have ſerved me as the Fiſhermen do Herrings.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Why how is that ſir <hi>Arthur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Truely hang them in a ſtring, but I thinke I was a little more cunning then the reſt for I ſlip my neck out of the co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er as the ſaying is in pvdding time.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Did ye ſo, gad it I had catcht you there, I would have known how you got out a<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </speaker>
+               <p>I Dun you are a man of your hands 'tis <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Yes ſir <hi>Arthur</hi> for rick and ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Nick and ſhip Dun what does that mean?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I that's well remembred ſir <hi>Arthur;</hi> 'twas my deſire bad you come to <hi>Charing Croſs</hi> I had taught you what it meant.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Dun thou doſt but jeſt I am ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e on it.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>It is your pleaſure to ſay ſo fir, but I muſt tell you all that were there did be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y believe that I were in carreſt.</p>
+            </sp>
+            <pb n="5" facs="tcp:170495:3"/>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Nay if it be ſo let me tell you Eſ<g ref="char:EOLhyphen"/>quier, your Angle was too ſhort to catch me with your bait.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Nay nay ſir <hi>Arthur</hi> had you béen once on the hook, my Line was ſo ſtrong ye had been hang'd ere ye'd broke it.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Faith Dun I believe thou'ſt have gi<g ref="char:EOLhyphen"/>ven any thing I had been there.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>In troth ſir <hi>Arthur</hi> I muſt deale p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainly with you, I would have given you a ſlip for a teſter, and that had béen ſuffici<g ref="char:EOLhyphen"/>ent for a man of your Coate one would think.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>
+                  <hi>I</hi> that's true Dun, a great many more thought ſo beſides thee, that my deſerts did merit as great a thing as that.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I Sir, and a great many did think 'twas pitty but you had it too.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why Dun think'ſt thou I had no more guts in my brains to act a Traytors part, but to come under thy hands.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Nay ſir <hi>Arthur</hi> I know you are a running Sophiſter, the Mines, and the Colepits were not come by with nothing.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why truly Dun I muſt confeſs all the lands, parks, livings, and ſpacious places ſeem'd no more to me then a mol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in my glad.</p>
+            </sp>
+            <pb n="6" facs="tcp:170495:4"/>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Why I Sir <hi>Arthur,</hi> you were like the glatton expreſt in the <hi>Proverbs,</hi> your eyes were bigger then your belly.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>No no Dun thou art miſtaken, for when I had got all theſe Revenues I was like the Dogg in Eſors Fables, even at Porchmouth <hi>I</hi> left the fleſh, and lept at the ſhadow.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>I that was when you were ſo hungry and ravening after great Eſtates, that a Town or a Caſtle could but give you a breakfaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Hazel.</speaker>
+               <p>Why truely Dun I muſt confeſs again to thee, I never ſlept contentedly, no longer then I had purchaſt either parks or Livings.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Why I Sir <hi>Arthur</hi> that all the world knows, but what would you have done with the Abby at <hi>Weſtminſter</hi> had you aſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m'd the heighth of your am<g ref="char:EOLhyphen"/>bition.</p>
+            </sp>
+            <sp>
+               <speaker>Hazel.</speaker>
+               <p>I would have pul'd it down to have built me ſtables.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Then what would you have done <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Parliament houſe, the méeting<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ace of your miſchie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>I would have bound it about with
+<pb n="7" facs="tcp:170495:4"/>a band of brafs, that when I dyed I would have laid my bones there, that ſo long as the duſty Relicks did remain, they ſhould never want a Rump Hazelrig to make up their ambitious number.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>What, then you would have willingly ſate in the houſe alive or dead.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Yes faith Dun as willing as ever I went to bed.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>I but what would you have made the Nation to have been <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>What ſhould it have been then, an everlaſting Common-wealth I tell thee.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>A Common wealth do you ſay, introth ſo the people believ'd you, for you made every ones wealth common to your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Alas Dun <hi>I</hi> could not help it, for Covetouſneſs ſo overſway'd me, I thought I could have ſwallowed Mountains, for England was too little for my horſes to run in.</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>What the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it ſéems it was the nature of the beaſt was it.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>I truely Dun, or the nature of my prone ambion, for all my delight was in mony, land, and horſes.</p>
+            </sp>
+            <pb n="8" facs="tcp:170495:5"/>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I and all my hopes was at laſt I ſhould have horſt you too, but now I think to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>You find to the contrary, why are you any looſer by me?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You know I am ſir <hi>Arthur,</hi> and a great ſufferer too.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wherein I marvel, ſpeak it plainly.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir <hi>Arthur</hi> the City can juſtifie how long I have waited for you, from time to time, from Seſſions to Seſſions, and wiring at all times to do my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nty, now you go about to depri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me of my Fees, which you know have béen my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue for theſe ma<g ref="char:EOLhyphen"/>ny years.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Nay Dun thats nothing, I did not require you to wait for me.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Nay ſir <hi>Arthur</hi> thats nothing to the purpoſe for I did it out of tender reſpects ſo you which was according to my duty ſir <hi>Arthur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why Mr. Dun where did you wait then?</p>
+            </sp>
+            <sp>
+               <speaker>Dun.</speaker>
+               <p>Why I watted at the Seſſions houſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndée<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sir <hi>Arthur,</hi> with my Slip and other Inſtruments about me for the worke.</p>
+            </sp>
+            <pb n="9" facs="tcp:170495:5"/>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Nay now underſtand your mind Eſquire; ha ha you wait for the velvet coare and the breeches.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Hold good Sir <hi>Arthur,</hi> hear we once more, I have got many a fair pound with velvet Coles and Bréeches not long agoe from ſveral of your friends, therefore I pray you Sir <hi>Arthur</hi> deny me not the ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avour from your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why I tell-thee Dun once again that they are not thy fees nor thy due except I were hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Alas Sir thats a thing quickly done you ſhall nere be troubled with that, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le do it while you ſtand ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O fye fye was ever a man troubled with ſuch a fellow as thou art.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I a hundred in their times, Sir <hi>Arthur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll thee Dun for the luckre of my velve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cote and Breeches, thou'dſt perſwade me to be hang'd whether I will or no.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Indéed Sir let me tell you, there were eight hang'd at <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>haring Croſs</hi> whe<g ref="char:EOLhyphen"/>ther they would or no, and I hope your worſhip wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l no refuſe it to hinder me of a ſmall Fée.</p>
+            </sp>
+            <pb n="10" facs="tcp:170495:6"/>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why man thou talkeſt as if hanging was nothing.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Indéed no more it is not Sir <hi>Arthur</hi> for choaking is all.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>But I am not prepard for thee yet.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Thats nothing Sir <hi>Arthur,</hi> ſo long as I am ready for you.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>But what ſhall I do with my Parks, and my Cole-pits.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why I tell thée Sir <hi>Arthur,</hi> I can eaſe you of that care in a moment, which none elſe can do, except they do as I do.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O Dun Ile not believe thee, thou lookeſt ſo like a hangman.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I Sir <hi>Arthur,</hi> like to like as the Di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el ſaid to the Collier.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Dun you muſt not look a gift horſe in the mouth.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir I look for nothing but my due.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Dun be ingenious to me.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Ile be ingenious with you as the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Then tell me what you have done for me.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, I have waited a long time at the Seſſions for you, I have laid out mony for a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> other things to do the work.</p>
+            </sp>
+            <sp>
+               <speaker>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</speaker>
+               <p>
+                  <hi>Truely</hi> Dun they muſt lye on your hand.</p>
+            </sp>
+            <pb n="11" facs="tcp:170495:6"/>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, I bad rather they ſhoud lye <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n your neck.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>Dun thou art of a ſtrange opinion, thou wilt ſpeak fair, when thou art ready to hang a man.</p>
+            </sp>
+            <sp>
+               <speaker>D,</speaker>
+               <p>I ſir, what's a man but's trade.</p>
+            </sp>
+            <sp>
+               <speaker>Ha</speaker>
+               <p>Dun thou doſt not care if thou uſeſt thy trade every day in the week.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Not I Sir <hi>Arthur</hi> ſo long as I get velvet Iackets ſo cheap.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>You never knew the price of them.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Thats no mattar ſir <hi>Arthur,</hi> but ſome of your friends have béen good cuſto<g ref="char:EOLhyphen"/>mers to me I thank them for it.</p>
+            </sp>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>I dun, not with their will, for needs muſt go whom the Divel drives.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why ſir <hi>Arthur</hi> they had all their end, and I wiſh you had yours.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why then Dun would perſwade me hanging is the beſt death.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I tell thée no more then what be bodes me to do.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I, I Dun, if thou waſt on the Gallows to hang me, you'l ſay it behoves you to do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Introth ſir every man muſt follow his trade, and I think nous will take mine out of my hand.</p>
+            </sp>
+            <pb n="12" facs="tcp:170495:7"/>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun <hi>I</hi> would fain be rid of thee.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, I would willingly diſpatch ye.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun you want breeding.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir <hi>Arthur</hi> you want a Truſs.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun have a care you are not kick.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Have a care you are not hang'd ſir.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun are not you the Hangman.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir are not you a Traytor.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun I do hate ſuch language as this.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir I deſir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no more then my ſées.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun <hi>I</hi> cannot indure thy ſight.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, pray grant me my right.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun thou are of a baſe profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, you are in a worſe condition.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun thou are talk of all the Town.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You are a Traytor againſt y<hi rend="sup">e</hi> Crown.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun you are Newgates waiter.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, You are <hi>Englands</hi> Traytor.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun I wonder you are not bing'd.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, I long while you are hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun I ſpeak ingeniouſly to thee, as the old Proverb is, give the hang-man his due.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I there you lay very well Sir <hi>Ar<g ref="char:EOLhyphen"/>thar,</hi> give the Hangman his due, and it will ſoon end the controverſſe betwéen yóu and I.</p>
+            </sp>
+            <pb n="13" facs="tcp:170495:7"/>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>What you mean the velvet Cote, and the Breeches.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Yes and the other ingredients be<g ref="char:EOLhyphen"/>longing to them, then farewell to the old Bullies of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I there one may ſee, what care you when your turn is ſerv'd.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir <hi>Arthur</hi> you may believe me, I ſhould be as willing to ſerve your turn as any one, I hare béen vſtherto.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Yes for what I wonder?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>For what, for the velvet Cote and Bréeches I tell thée.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Yes and for that you would give me a ſlip <hi>I</hi> believe.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Ile give you an end that ſhall hold be ſure on't, for we muſt conſider you are a perſon of worth.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Nay Dun that's very true, for I am worth a great deal more then I am wil<g ref="char:EOLhyphen"/>ling to part withall for I would willing<g ref="char:EOLhyphen"/>ly en joy it longer.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why I tell thée Sir <hi>Arthur;</hi> you are conſtrained to part with your treaſu<g ref="char:EOLhyphen"/>ry which you ſo dearly love and ſo much reioyce in, but be content with the old pro<g ref="char:EOLhyphen"/>verb, néeds muſt go the Divel drives.</p>
+            </sp>
+            <pb n="14" facs="tcp:170495:8"/>
+            <sp>
+               <speaker>Ha.</speaker>
+               <p>O but I tell thee, could I but keep my eſtate, <hi>I</hi> care not if I took a chamber in hell, ſo I could get my rack rents yearly,</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Alas ſir, without queſtion you ſhall receive your wages accoring to your deſert</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O but Dun when <hi>I</hi> am dead, thou wile und the Biſhoprick of Durham prin<g ref="char:EOLhyphen"/>ted in my heart.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I wiſt I may ſir, then I ſhall be in hopes of y<hi rend="sup">e</hi> bréeches too, but when I rip you up I ſhall think of y<hi rend="sup">e</hi> voice at mount <hi>Atne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>What was that prethee Dun tell me.</p>
+            </sp>
+            <sp>
+               <speaker>D</speaker>
+               <p>When the great rich <hi>Antonia</hi> dyed the D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vel cryth out at the mouth of the fi<g ref="char:EOLhyphen"/>ery <hi>Zone</hi> prepare prepare, for the great <hi>Antonia</hi> is coming.</p>
+            </sp>
+            <sp>
+               <speaker>H</speaker>
+               <p>Nay if it be ſo with great <hi>Antonia,</hi> Ile curſe fortune for parting me and my eſtate ſo ſoon.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I ſir <hi>Arthur</hi> remember how eaſily you uſurpt it for lightly come lightly goes.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Let it go and behangd, for as the Fox ſayes, ſome goes up, and ſome goes down.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Truly ſir thats my trade, for when your honor comes under my ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Ile uſe you as kindly as the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>In troth thou lookeſt like a man that would do it.</p>
+            </sp>
+            <pb n="15" facs="tcp:170495:8"/>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I am as likely as any man, and I fain would ſhew your honor my skill, and if I do it not well, Ile never erpect your cu<g ref="char:EOLhyphen"/>ſtome more.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Thou art a fellow that exceeds all men, thou'lt hang a man for his Cloak.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Truely ſir I had rather hang a man for his Cloake than his body.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I ſo the people ſay, but I deſire not to be troubleſome to you <hi>Mr.</hi> Dun.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Nay ſiir mind not that, for had I you but up the Ladder you ſhould not much trouble me Ile warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I think thou'lt never leave hanging.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Good ſir <hi>Arthur</hi> it is my trade, and your worſhip knows my occaſions for I have loſt a great deale of time, and ſpent a great deal of mony in waiting for this ſmall job of yours which if I loſe my la<g ref="char:EOLhyphen"/>bour and my fees, I wiſh the Divel had ſetch't you ſeven year ſooner.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why Dun what art thou affraid of thou ſeem'ſt to be ſo haſty.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Truly ſir, I am affraid that you will not live to be hangd, which makes me ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry the lamentation of a bad market.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Ah Dun if thou knew'ſt bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what
+<pb n="16" facs="tcp:170495:9"/>ſtrrange ſights which I beheld, for I tell thee, not long ago I beheld my dear Cap<g ref="char:EOLhyphen"/>tain and Negromance <hi>Hugh Peters</hi> head on <hi>London Bridge,</hi> with many of my old companions.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well and what was that all.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>No, but when <hi>I</hi> had lookt upon the top of the Tower, every corner had put up in gold <hi>Charles Rex, Charles Rex,</hi> which ſight ſo much aſtoniſhed my ſpirit, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ſhall never hold up my head again.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Ha, ha great <hi>Haſelrig</hi> is this the cauſe ont let me addiſe you make your will and bequeath thy lands to the right own<g ref="char:EOLhyphen"/>ers again.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Dun I thank thee for thy advice &amp; <hi>I</hi> ſhall remember thee with a Legacy, chooſe any mans eſtate in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Ile give it thee, but keep it how thou canſt.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Ha godamercy thou great <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tona,</hi> thou haſt not forgot thy old rules before thou wilt let thy liberality fall, thou wilt make uſe of another mans goods, ſo farewell fir <hi>Arthur,</hi> follow my advice, but give me thy hand though I cannot have thy heart, and for your ſake I will never be ſo backward in my duty to any of your fr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ds hereafter.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb n="16" facs="tcp:170495:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
